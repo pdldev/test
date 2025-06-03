@@ -11,3 +11,5 @@ void main()
     // Additional functionality can be added here
     std::cout << "This is a simple C++ program." << std::endl;
 }
+
+// git add . -> git commit -m "message" -> git push
